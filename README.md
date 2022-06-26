@@ -1,6 +1,6 @@
 # rtow-clj
 
-An experimental ray tracer written in Clojure. Run it with `clojure rtow.clj`.
+An experimental ray tracer written in Clojure. Run it with `clojure rtow.clj > image.ppm`.
 
 Built on the amazing [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html).
 
